@@ -1,0 +1,6 @@
+UI_CN = {
+	UI_DrawOnMap_Draw = "手绘",
+	UI_DrawOnMap_Erase = "擦除",
+	UI_DrawOnMap_Thickness = "粗细",
+	UI_DrawOnMap_Fill = "填充"
+}
